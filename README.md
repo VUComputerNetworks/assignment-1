@@ -1,5 +1,9 @@
 # CS-5382 Computer Networking Assignment -1
 
+## Recording for the milestones :
+Recording for the milestones can be found at following locatios
+https://drive.google.com/drive/folders/1dvDQ_pej7cOXgb0BomMnI6bZi6Y8WFmP?usp=sharing
+
 ## Prerequisite to run the programs :
 Please make sure following softwares/packages are installed before running the program
   1. JDK version 1.8 and above 
@@ -10,7 +14,6 @@ Please make sure following softwares/packages are installed before running the p
 
  
 
-The code is extended from what was submitted in assignment-1 (API code remain same) With addition of Zookeeper.
 
 ## Required Packages
 
